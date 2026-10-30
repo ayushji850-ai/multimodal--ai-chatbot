@@ -1,6 +1,6 @@
-# VisionVoice AI — Python Multimodal Chatbot
+# Multimodal Chatbot
 
-A complete beginner-friendly project for the Module 3 multimodal chatbot lab. **Both frontend and backend are Python.** The UI is built with Streamlit; the API is built with FastAPI. There are no custom JavaScript, HTML, CSS, or Node.js files.
+A complete beginner-friendly project fo multimodal chatbot . **Both frontend and backend are Python.** The UI is built with Streamlit; the API is built with FastAPI. There are no custom JavaScript, HTML, CSS, or Node.js files.
 
 ## Features
 - Text conversation with a multimodal Gemini model
